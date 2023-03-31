@@ -1,0 +1,22 @@
+
+.table-row{
+  border:1px solid black;
+  display: flex;
+}
+.table-cell{
+  display: flex;
+}
+
+.mobile-no-value{
+  padding-right:230px ;
+}
+.favorite-icon-container{
+  margin-right:40px ;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.separator{
+  margin-right: 100px;
+  height: fit-content;
+}
